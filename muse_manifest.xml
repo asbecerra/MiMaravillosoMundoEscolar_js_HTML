@@ -1,0 +1,28 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Ciencias.com" resolutions="1x" timestamp="1530156092150">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="102127206" ref="index:célula:choques:matemáticas"/>
+    <file name="index.css" crc="210699990" ref="index"/>
+    <file name="c_lula.css" crc="175143350" ref="célula"/>
+    <file name="choques.css" crc="4219865233" ref="choques"/>
+    <file name="matem_ticas.css" crc="3770541108" ref="matemáticas"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:célula:choques:matemáticas"/>
+    <file name="museutils.js" crc="163421577" ref="index:célula:choques:matemáticas"/>
+    <file name="whatinput.js" crc="86476730" ref="index:célula:choques:matemáticas"/>
+    <file name="museconfig.js" crc="168988563" ref="index:célula:choques:matemáticas"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:célula:choques:matemáticas"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:célula:choques:matemáticas"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:célula:choques:matemáticas"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:célula:choques:matemáticas"/>
+    <file name="require.js" crc="244322403" ref="index:célula:choques:matemáticas"/>
+  </folder>
+  <folder name="images">
+    <file name="fondo-negro-189535.jpg" crc="3918975372" ref="index:célula:choques:matemáticas"/>
+  </folder>
+  <file name="index.html" crc="413416780" seo="true" mt="1530155770533" redirect="true"/>
+  <file name="célula.html" crc="4248714266" seo="true" mt="1530155770533" redirect="true"/>
+  <file name="choques.html" crc="3843953500" seo="true" mt="1530155909626" redirect="true"/>
+  <file name="matemáticas.html" crc="4107019904" seo="true" mt="1530156077190" redirect="true"/>
+</manifest>
