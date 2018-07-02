@@ -6,7 +6,7 @@ lib.ssMetadata = [
 ];
 
 
-// symbols :
+// symbols:
 
 
 
